@@ -1,5 +1,6 @@
 const TodoFilter = ({ changeFilter, filter }) => {
     return (
+        /* hola */
         <section className="container mx-auto mt-8">
             <div className="bg-white p-4 rounded-md flex justify-center gap-4">
               <button 
